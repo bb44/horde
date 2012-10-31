@@ -429,6 +429,193 @@ import javax.imageio.ImageIO;
 	          e.printStackTrace();
 	        }   
 	      }
+	     if(n==37) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("biblio.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==38) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("poste.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==39) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("cabane.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==40) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("epicerie.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==41) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("fastfood.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==42) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("mini.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==43) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("silo.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==44) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("villa.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==45) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("avant_poste_militarie.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==46) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("caverne_anciennement_habite.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==47) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("char.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==48) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("hangars.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==49) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("immeuble.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==50) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("ovni.jpg"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==51) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("hospice.png"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==52) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("brico.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
+	     if(n==53) {g.setColor(Color.red);
+	      
+	      try {
+	          Image img = ImageIO.read(new File("enterrer.gif"));
+	          
+	          //Pour une image de fond
+	          g.drawImage(img, 0, 0, this.getWidth(), this.getHeight(), this);
+	        } catch (IOException e) {
+	          e.printStackTrace();
+	        }   
+	      }
 	     if(p>0){
 	      g.setColor(Color.yellow);  
 	      g.fillOval(x/2-x/16, y/8, x/8, x/8);

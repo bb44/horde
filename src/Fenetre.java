@@ -98,10 +98,10 @@ public class Fenetre extends JFrame{
 
 	    public void keyPressed(KeyEvent event) {
 	      System.out.println("Code touche pressée : " + event.getKeyCode() + " - caractère touche pressée : " + event.getKeyChar());
-	      if(event.getKeyCode()==37){cy=cy+1;pause();}
-	      if(event.getKeyCode()==38){cx=cx+1;pause();}
-	      if(event.getKeyCode()==39){cy=cy-1;pause();}
-	      if(event.getKeyCode()==40){cx=cx-1;pause();}
+	      if(event.getKeyCode()==37){cy=cy-1;pause();}
+	      if(event.getKeyCode()==38){cx=cx-1;pause();}
+	      if(event.getKeyCode()==39){cy=cy+1;pause();}
+	      if(event.getKeyCode()==40){cx=cx+1;pause();}
 	      if(event.getKeyCode()==27){fin();}
 	      if(event.getKeyCode()==17){cy=0;cx=0;pause();}
 	    }
