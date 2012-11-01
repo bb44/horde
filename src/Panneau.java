@@ -616,6 +616,7 @@ import javax.imageio.ImageIO;
 	          e.printStackTrace();
 	        }   
 	      }
+	     //ajouter des personnages
 	     if(p>0){
 	      g.setColor(Color.yellow);  
 	      g.fillOval(x/2-x/16, y/8, x/8, x/8);

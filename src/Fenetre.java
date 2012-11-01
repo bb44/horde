@@ -1,14 +1,29 @@
+import java.awt.*;
+import javax.swing.*;
+
 import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-public class Fenetre extends JFrame{
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+public class Fenetre extends JFrame  {
 
 	public Monde M;
 	public int cx;
@@ -131,6 +146,7 @@ public class Fenetre extends JFrame{
    private void fin(){
 	    this.dispose();
 	  }  
+
 }
 
 
